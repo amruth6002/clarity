@@ -1,3 +1,4 @@
 .env
 experiment-weights
 models
+.gitignore
